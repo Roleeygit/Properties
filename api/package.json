@@ -8,7 +8,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "hai-server --watch -database-json"
+    "start": "hai-server --watch database.json"
   },
   "repository": {
     "type": "git",
