@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "desktop/src"
+    ],
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\juhas\\OneDrive\\Desktop\\Suli programozás\\2EV\\Library\\gson-2.10.1.jar"
+    ]
+}
